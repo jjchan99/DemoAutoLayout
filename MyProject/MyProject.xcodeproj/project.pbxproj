@@ -13,6 +13,7 @@
 		1D12511228C514CB00DA52D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D12511028C514CB00DA52D4 /* Main.storyboard */; };
 		1D12511428C514D200DA52D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D12511328C514D200DA52D4 /* Assets.xcassets */; };
 		1D12511728C514D200DA52D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D12511528C514D200DA52D4 /* LaunchScreen.storyboard */; };
+		1DB7A1F428C647680099FA0E /* IBAndAutoLayout.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DB7A1F328C647680099FA0E /* IBAndAutoLayout.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D12511328C514D200DA52D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D12511628C514D200DA52D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D12511828C514D200DA52D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DB7A1F328C647680099FA0E /* IBAndAutoLayout.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = IBAndAutoLayout.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1D12510A28C514CB00DA52D4 /* AppDelegate.swift */,
 				1D12510C28C514CB00DA52D4 /* SceneDelegate.swift */,
 				1D12510E28C514CB00DA52D4 /* ViewController.swift */,
+				1DB7A1F328C647680099FA0E /* IBAndAutoLayout.storyboard */,
 				1D12511028C514CB00DA52D4 /* Main.storyboard */,
 				1D12511328C514D200DA52D4 /* Assets.xcassets */,
 				1D12511528C514D200DA52D4 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				1D12511728C514D200DA52D4 /* LaunchScreen.storyboard in Resources */,
 				1D12511428C514D200DA52D4 /* Assets.xcassets in Resources */,
+				1DB7A1F428C647680099FA0E /* IBAndAutoLayout.storyboard in Resources */,
 				1D12511228C514CB00DA52D4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
